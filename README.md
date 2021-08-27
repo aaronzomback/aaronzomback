@@ -2,7 +2,7 @@
 
 I'm a full stack engineer experienced working with Javascript, Typescript, Node, Express, GraphQL, React, and Ruby on Rails.
 
-I believe that working with technology inevitably has ethical implications and so it is a bit like the story of Icarus; we must be careful of not flying too close to the sun, but speed along at just the right altitude to avoid burning our wings. 
+I believe that working with technology inevitably has ethical implications and so like the story of Icarus; we must be careful of not flying too close to the sun, but speed along at just the right altitude to avoid burning our wings. 
 
 Currently specializing in Interactive Intelligence/AI as part of Georgia Tech's master of computer science program. 
 
