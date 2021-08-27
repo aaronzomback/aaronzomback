@@ -6,9 +6,12 @@ I believe that working with technology is a bit like the story of Icarus, we mus
 
 Currently specializing in Interactive Intelligence/AI as part of Georgia Tech's master of computer science program. 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 You can reach me at aaronzomback@protonmail.com
 
 My portfolio site: https://www.zomback.design
+
 My creative website: https://www.zomback.com
 
 <!--
