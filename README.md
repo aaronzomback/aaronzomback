@@ -1,4 +1,4 @@
-### Bonjour, je suis Aaron 👋 ☕️ 
+### Bonjour, je suis Aaron ☕️ 
 
 I'm a full stack engineer experienced working with Javascript, Typescript, Python, Node, Express, GraphQL, React, and Ruby on Rails, & currently specializing in Interactive Intelligence/AI as part of Georgia Tech's master of computer science program. 
 
