@@ -9,10 +9,11 @@ I believe in a more decentralized future (Bitcoin) and that working with technol
 When I'm not working on code, I like to experiment with photography/light projection as well as writing and making films.
 
 ## Favorite Technologies
-→ Javascript/Typescript
-→ React
-→ Node
-→ GraphQl & Apollo
+→ Javascript/Typescript <br>
+→ React <br>
+→ Node <br>
+→ GraphQL & Apollo <br>
+→ Python
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
