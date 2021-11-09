@@ -1,6 +1,6 @@
 ### Bonjour, je suis Aaron 👋 ☕️ 
 
-I'm a full stack engineer currently working with Bricks.co based in Montpellier, FR.
+I'm a full stack engineer at [Bricks](https://www.bricks.co/) based in Montpellier, FR.
 
 Experienced working with Javascript, Typescript, Python, Node, Express, GraphQL, React, and Ruby on Rails, as well as studying part-time in Georgia Tech's Master of Computer Science program.
 
