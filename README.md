@@ -8,7 +8,7 @@ I value security, privacy, and a decentralized economy with Bitcoin.
 
 Working with technology has ethical and social implications. Like the story of Icarus; we must be careful of not flying too close to the sun, but speed along at just the right altitude to avoid burning our wings.
 
-When I'm not working on code, I like to experiment with photography/light projection as well as writing and making films.
+When I'm not working on code, I like to read, write, work on films, as well as develop a cinema platform I founded called TimeSink.
 
 #### Favorite Technologies
 → Javascript/Typescript <br>
