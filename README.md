@@ -2,8 +2,6 @@
 
 I'm a full stack engineer at [Bricks](https://www.bricks.co/) based in Montpellier, FR.
 
-Currently I'm also pursuing a masters degree in Computer Science from Georgia Tech.
-
 When I'm not working on code, I like to read, write, work on films, as well as develop a cinema platform I founded called [TimeSink](https://timesinkpresents.com).
 
 
