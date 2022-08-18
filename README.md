@@ -1,6 +1,8 @@
-You can reach me at aaronzomback@protonmail.com
-
 Pas de Pub 🤌
+
+^^x>
+
+You can reach me at aaronzomback@protonmail.com
 
 computer stuff site: https://www.zomback.design
 
