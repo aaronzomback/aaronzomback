@@ -1,9 +1,3 @@
-### Bonjour, je suis Aaron 👋 ☕️ 
-
-I'm a full stack engineer at [Bricks](https://www.bricks.co/) based in Montpellier, FR.
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 You can reach me at aaronzomback@protonmail.com
 
 My portfolio site: https://www.zomback.design
