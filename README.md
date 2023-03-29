@@ -2,7 +2,7 @@ Pas de Pub 🤌
 
 You can reach me at aaronzomback@protonmail.com
 
-computer stuff site: https://www.zomback.design
+computer stuff site: https://www.zomback.xyz
 
 recording my creations: https://www.zomback.com
 
